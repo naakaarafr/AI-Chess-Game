@@ -1,0 +1,18 @@
+# Chess Game Requirements
+
+# Core chess library for game logic, board representation, and SVG generation
+python-chess>=1.999
+
+# HTTP requests for API calls to Gemini
+requests>=2.31.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Standard library modules (these come with Python by default):
+# sys - System-specific parameters and functions
+# os - Operating system interface
+# time - Time-related functions
+# json - JSON encoder and decoder
+# datetime - Date and time handling
+# typing - Type hints support
